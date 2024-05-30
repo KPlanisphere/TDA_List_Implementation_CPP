@@ -1,6 +1,4 @@
-## TDA List Implementation in C++
-
-### Repository Name: `TDA_List_Implementation_CPP`
+# TDA List Implementation in C++
 
 ### Project Description
 
